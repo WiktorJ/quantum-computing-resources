@@ -4,11 +4,13 @@
 * [QAR-Lab LMU](http://www.mobile.ifi.lmu.de/en/qar-lab/)
 * [INnsbruck University](https://www.uibk.ac.at/th-physik/qic-group/research/)
 * [PlanQK](http://planqk.de/en/) - Platform and ecosystem for Quantum-inspired Artificial Intelligence. The goal is to develop an open platform for Quantum-inspired AI to create and promote an ecosystem of AI & Quantum Computing (QC) specialists, developers of QC applications as well as users, service providers and consultants.
+* [QUTech TU Delft] - https://qutech.nl/
 
 ## People
 * Simon Benjamin - Oxford https://qtechtheory.org/
-* Steven Flammia - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/steven-flammia.html#collapseprofileresearchinterest* Stephen Bartlett - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/stephen-bartlett.html 
-
+* Steven Flammia - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/steven-flammia.html#collapseprofileresearchinterest
+* Stephen Bartlett - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/stephen-bartlett.html 
+* Aram W. Harrow - MIT http://web.mit.edu/aram/www/
 
 
 ## Papers
@@ -16,9 +18,12 @@
 ### Overviews
 * [The Holy Grail of Quantum Artificial Intelligence:Major Challenges in Accelerating the Machine Learning Pipeline](https://arxiv.org/pdf/2004.14035.pdf)
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/pdf/1708.09757.pdf)
+* [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 
 ### Quantum error correction
 * [A high threshold code for modular hardware with asymmetric noise](https://arxiv.org/pdf/1812.01505.pdf)
+* [Fault-Tolerant Logical Gates in the IBM Quantum Experience](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.080504)
+* [Multiqubit randomized benchmarking using few samples](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.032304)
 
 
 ### Variational Qauntum Algorithms
@@ -33,7 +38,8 @@
 ### Quantum Security
 * [Simple proof of confidentiality for private quantum channels in noisy environments](https://arxiv.org/pdf/1711.08897.pdf)
 
-
+### Handling Big Datasets
+* [Small quantum computers and large classical data sets](https://arxiv.org/pdf/2004.00026.pdf)
 ## Software 
 
 ### [Qiskit](https://qiskit.org/)
@@ -103,4 +109,5 @@ quantum devices to become available in the next years in
 the few thousands-of-qubits regime (source: https://arxiv.org/pdf/1708.09757.pdf)
 
 
-
+## Other Links
+* https://thequantumdaily.com/2019/11/18/the-worlds-top-12-quantum-computing-research-universities/
