@@ -4,7 +4,10 @@
 * [QAR-Lab LMU](http://www.mobile.ifi.lmu.de/en/qar-lab/)
 * [INnsbruck University](https://www.uibk.ac.at/th-physik/qic-group/research/)
 * [PlanQK](http://planqk.de/en/) - Platform and ecosystem for Quantum-inspired Artificial Intelligence. The goal is to develop an open platform for Quantum-inspired AI to create and promote an ecosystem of AI & Quantum Computing (QC) specialists, developers of QC applications as well as users, service providers and consultants.
-* [QUTech TU Delft] - https://qutech.nl/
+* [QUTech TU Delft](https://qutech.nl/)
+	* https://qutech.nl/elkouss-group/publications/
+	* https://qutech.nl/stephanie-wehner-group/
+* [RWTH AACHEN](https://www.quantuminfo.physik.rwth-aachen.de/go/id/dqvn/?lidx=1)
 
 ## People
 * Simon Benjamin - Oxford https://qtechtheory.org/
@@ -19,12 +22,13 @@
 * [The Holy Grail of Quantum Artificial Intelligence:Major Challenges in Accelerating the Machine Learning Pipeline](https://arxiv.org/pdf/2004.14035.pdf)
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/pdf/1708.09757.pdf)
 * [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
+* [The Engineering Challenges in Quantum Computing](https://dl.acm.org/doi/pdf/10.5555/3130379.3130579)
 
 ### Quantum error correction
 * [A high threshold code for modular hardware with asymmetric noise](https://arxiv.org/pdf/1812.01505.pdf)
 * [Fault-Tolerant Logical Gates in the IBM Quantum Experience](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.080504)
 * [Multiqubit randomized benchmarking using few samples](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.032304)
-
+* [Transforming graph states using single-qubit operations](https://qutech.nl/wp-content/uploads/2018/08/1805.05305-transforming-graph-states-using-single-qubit-operations.pdf)
 
 ### Variational Qauntum Algorithms
 * [Variational-State Quantum Metrology](https://arxiv.org/pdf/1908.08904.pdf)
@@ -34,12 +38,19 @@
 ### Quantum Compilers
 * [Quantum compilation and circuit optimisation via energy dissipation](https://arxiv.org/pdf/1811.03147.pdf)
 
-
 ### Quantum Security
 * [Simple proof of confidentiality for private quantum channels in noisy environments](https://arxiv.org/pdf/1711.08897.pdf)
 
+### Quantum Internet
+* [Quantum internet: A vision for the road ahead](https://science.sciencemag.org/content/sci/362/6412/eaam9288.full.pdf)
+* [Towards Large-Scale Quantum Networks](https://arxiv.org/pdf/1909.08396.pdf)
+
 ### Handling Big Datasets
 * [Small quantum computers and large classical data sets](https://arxiv.org/pdf/2004.00026.pdf)
+
+### Machine Learning
+* [From Probabilistic Graphical Models to Generalized Tensor Networks for Supervised Learning](https://pure.mpg.de/rest/items/item_3224251_1/component/file_3224349/content)
+
 ## Software 
 
 ### [Qiskit](https://qiskit.org/)
@@ -83,6 +94,8 @@ Purely quantum methods differ from classical stochastic optimization in that
 they are usually guaranteed to find the global optimum under ideal conditions. 
 In real-world implementations, they, too, yield stochastic results.
 
+### Quantum Security
+Qubits also cannot be copied, and any attempt to do so can be detected. (https://science.sciencemag.org/content/sci/362/6412/eaam9288.full.pdf)
 
 ## Possible topics
 * Provide means to process (the essence of) large amounts of data on quantum computers.
