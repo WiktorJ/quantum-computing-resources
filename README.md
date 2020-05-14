@@ -51,6 +51,10 @@
 ### Machine Learning
 * [From Probabilistic Graphical Models to Generalized Tensor Networks for Supervised Learning](https://pure.mpg.de/rest/items/item_3224251_1/component/file_3224349/content)
 
+### Quantum Machines for Classical Processes
+* [Superior memory efficiency of quantum devices for the simulation of continuous-time stochastic processes](https://arxiv.org/pdf/1704.04231.pdf)
+* [Quantum mechanics can reduce the complexity of classical models](https://www.nature.com/articles/ncomms1761)
+
 ## Software 
 
 ### [Qiskit](https://qiskit.org/)
@@ -96,6 +100,13 @@ In real-world implementations, they, too, yield stochastic results.
 
 ### Quantum Security
 Qubits also cannot be copied, and any attempt to do so can be detected. (https://science.sciencemag.org/content/sci/362/6412/eaam9288.full.pdf)
+
+### Machine Learning
+Recent work shows that quantum mechanics can provide
+more parsimonious models of stochastic processes than
+classical models, as quantified by an entropic
+measure of complexity. This suggests that quantum models hold the potential to substantially reduce the amount
+of other type of computational resources, e.g. memory, required to model a given dataset. (https://arxiv.org/pdf/1708.09757.pdf)
 
 ## Possible topics
 * Provide means to process (the essence of) large amounts of data on quantum computers.
