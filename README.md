@@ -23,6 +23,7 @@
 * [Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers](https://arxiv.org/pdf/1708.09757.pdf)
 * [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 * [The Engineering Challenges in Quantum Computing](https://dl.acm.org/doi/pdf/10.5555/3130379.3130579)
+* [Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
 
 ### Quantum error correction
 * [A high threshold code for modular hardware with asymmetric noise](https://arxiv.org/pdf/1812.01505.pdf)
@@ -50,10 +51,19 @@
 
 ### Machine Learning
 * [From Probabilistic Graphical Models to Generalized Tensor Networks for Supervised Learning](https://pure.mpg.de/rest/items/item_3224251_1/component/file_3224349/content)
+* [Quantum Convolutional Neural Networks](https://arxiv.org/pdf/1810.03787.pdf)
+
+#### Machine Learning Qunatum Circuts
+* [Implementing a distance-based classifier with a quantum interference circuit](https://arxiv.org/pdf/1703.10793.pdf)
+* [Circuit-centric quantum classifiers](https://arxiv.org/pdf/1804.00633.pdf)
+* [Quantum classifier with tailored quantum kernel](https://www.nature.com/articles/s41534-020-0272-6.pdf)
 
 ### Quantum Machines for Classical Processes
 * [Superior memory efficiency of quantum devices for the simulation of continuous-time stochastic processes](https://arxiv.org/pdf/1704.04231.pdf)
 * [Quantum mechanics can reduce the complexity of classical models](https://www.nature.com/articles/ncomms1761)
+
+### Quantum Computing in Finance
+* [Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=2A8897FA165EA093F7498B9A77C826F42ED337502D009C473CA5F567D97293EF5AF712A17BCA66FAF16D33BB771A4901)
 
 ## Software 
 
