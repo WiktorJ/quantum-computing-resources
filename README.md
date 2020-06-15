@@ -14,6 +14,8 @@
 * Steven Flammia - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/steven-flammia.html#collapseprofileresearchinterest
 * Stephen Bartlett - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/stephen-bartlett.html 
 * Aram W. Harrow - MIT http://web.mit.edu/aram/www/
+* Marcello Benedetti - UCL https://scholar.google.co.uk/citations?user=Pj-XjgkAAAAJ&hl=en
+* Maria Schuld - University of KwaZulu-Natal https://quantum.ukzn.ac.za/ms-m-schuld/
 
 
 ## Papers
@@ -24,12 +26,15 @@
 * [Quantum Computing in the NISQ era and beyond](https://arxiv.org/pdf/1801.00862.pdf)
 * [The Engineering Challenges in Quantum Computing](https://dl.acm.org/doi/pdf/10.5555/3130379.3130579)
 * [Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
+* [Parameterized quantum circuits as machine learning models](https://arxiv.org/pdf/1906.07682.pdf)
+* [Quantum Machine Learning](https://arxiv.org/pdf/1611.09347.pdf)
 
 ### Quantum error correction
 * [A high threshold code for modular hardware with asymmetric noise](https://arxiv.org/pdf/1812.01505.pdf)
 * [Fault-Tolerant Logical Gates in the IBM Quantum Experience](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.080504)
 * [Multiqubit randomized benchmarking using few samples](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.032304)
 * [Transforming graph states using single-qubit operations](https://qutech.nl/wp-content/uploads/2018/08/1805.05305-transforming-graph-states-using-single-qubit-operations.pdf)
+* [QVECTOR: an algorithm for device-tailored quantum error correction](https://arxiv.org/pdf/1711.02249.pdf)
 
 ### Variational Qauntum Algorithms
 * [Variational-State Quantum Metrology](https://arxiv.org/pdf/1908.08904.pdf)
@@ -38,6 +43,7 @@
 
 ### Quantum Compilers
 * [Quantum compilation and circuit optimisation via energy dissipation](https://arxiv.org/pdf/1811.03147.pdf)
+* [Quantum-assisted Quantum Compiling](https://arxiv.org/pdf/1807.00800.pdf)
 
 ### Quantum Security
 * [Simple proof of confidentiality for private quantum channels in noisy environments](https://arxiv.org/pdf/1711.08897.pdf)
@@ -52,11 +58,33 @@
 ### Machine Learning
 * [From Probabilistic Graphical Models to Generalized Tensor Networks for Supervised Learning](https://pure.mpg.de/rest/items/item_3224251_1/component/file_3224349/content)
 * [Quantum Convolutional Neural Networks](https://arxiv.org/pdf/1810.03787.pdf)
+* [Quantum Generative Adversarial Networks for Learning and Loading Random Distributions](https://arxiv.org/pdf/1904.00043.pdf)
+* [Quantum autoencoders for efficient compression of quantum data](https://arxiv.org/pdf/1612.02806.pdf)
+* [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/pdf/1802.06002.pdf)
+* [Learning the quantum algorithm for state overlap](https://arxiv.org/pdf/1803.04114.pdf)
+* [Quantum generative adversarial learning](https://arxiv.org/pdf/1804.09139.pdf)
+* [Quantum-Assisted Learning of Hardware-Embedded Probabilistic Graphical Models](https://arxiv.org/pdf/1609.02542.pdf)
+* [Real time evolution with neural-network quantum states](https://arxiv.org/pdf/1912.08831.pdf)
+* [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf)
+
+#### Machine Learning Encodins
+* [Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers](https://arxiv.org/pdf/1806.08321.pdf)
+* [Quanvolutional Neural Networks: Powering Image Recognition with Quantum Circuits](https://arxiv.org/pdf/1904.04767.pdf)
+* [Experimental Implementation of a Quantum Autoencoder via Quantum Adders](https://arxiv.org/pdf/1807.10643.pdf)
 
 #### Machine Learning Qunatum Circuts
 * [Implementing a distance-based classifier with a quantum interference circuit](https://arxiv.org/pdf/1703.10793.pdf)
 * [Circuit-centric quantum classifiers](https://arxiv.org/pdf/1804.00633.pdf)
 * [Quantum classifier with tailored quantum kernel](https://www.nature.com/articles/s41534-020-0272-6.pdf)
+* [Quantum circuit structure learning](https://arxiv.org/pdf/1905.09692.pdf)
+* [Robust Implementation of Generative Modeling with Parametrized Quantum Circuits](https://arxiv.org/pdf/1901.08047.pdf)
+
+#### Machine Learning Training Methods
+* [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/pdf/1709.07409.pdf)
+* [Training of Quantum Circuits on a Hybrid Quantum Computer](https://arxiv.org/pdf/1812.08862.pdf)
+* [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/pdf/1902.10445.pdf)
+* [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf)
+* [Training deep quantum neural networks](https://www.nature.com/articles/s41467-020-14454-2)
 
 ### Quantum Machines for Classical Processes
 * [Superior memory efficiency of quantum devices for the simulation of continuous-time stochastic processes](https://arxiv.org/pdf/1704.04231.pdf)
@@ -64,6 +92,9 @@
 
 ### Quantum Computing in Finance
 * [Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=2A8897FA165EA093F7498B9A77C826F42ED337502D009C473CA5F567D97293EF5AF712A17BCA66FAF16D33BB771A4901)
+
+### Quantum Circuts
+* [Methodology for replacing indirect measurements with direct measurements](https://arxiv.org/pdf/1901.00015.pdf)
 
 ## Software 
 
@@ -74,6 +105,14 @@ Qiskit is an open-source quantum computing software development framework for le
 ### [PennyLane](https://pennylane.ai/)
 
 A cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.d
+
+### [Tensorflow Quantum](https://github.com/tensorflow/quantum) 
+
+Python framework for hybrid quantum-classical machine learning that is primarily focused on modeling quantum data. TFQ is an application framework developed to allow quantum algorithms researchers and machine learning applications researchers to explore computing workflows that leverage Google’s quantum computing offerings, all from within TensorFlow.
+
+### [Cirq](https://github.com/quantumlib/Cirq) 
+
+Cirq is a Python library for writing, manipulating, and optimizing quantum circuits and running them against quantum computers and simulators.
 
 ## Notes
 
