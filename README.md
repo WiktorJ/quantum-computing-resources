@@ -58,14 +58,15 @@
 ### Machine Learning
 * [From Probabilistic Graphical Models to Generalized Tensor Networks for Supervised Learning](https://pure.mpg.de/rest/items/item_3224251_1/component/file_3224349/content)
 * [Quantum Convolutional Neural Networks](https://arxiv.org/pdf/1810.03787.pdf)
-* [Quantum Generative Adversarial Networks for Learning and Loading Random Distributions](https://arxiv.org/pdf/1904.00043.pdf)
 * [Quantum autoencoders for efficient compression of quantum data](https://arxiv.org/pdf/1612.02806.pdf)
 * [Classification with Quantum Neural Networks on Near Term Processors](https://arxiv.org/pdf/1802.06002.pdf)
 * [Learning the quantum algorithm for state overlap](https://arxiv.org/pdf/1803.04114.pdf)
-* [Quantum generative adversarial learning](https://arxiv.org/pdf/1804.09139.pdf)
 * [Quantum-Assisted Learning of Hardware-Embedded Probabilistic Graphical Models](https://arxiv.org/pdf/1609.02542.pdf)
 * [Real time evolution with neural-network quantum states](https://arxiv.org/pdf/1912.08831.pdf)
 * [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf)
+* [Machine learning methods in quantum computing theory](https://arxiv.org/pdf/1906.10175.pdf)
+* [Small quantum computers and large classical data set](https://arxiv.org/pdf/2004.00026.pdf)
+* [Machine learning quantum states in the NISQ era](https://arxiv.org/pdf/1905.04312.pdf)
 
 #### Machine Learning Encodins
 * [Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers](https://arxiv.org/pdf/1806.08321.pdf)
@@ -86,6 +87,16 @@
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf)
 * [Training deep quantum neural networks](https://www.nature.com/articles/s41467-020-14454-2)
 
+#### Quantum Adversarial Networks
+* [Adversarial quantum circuit learning for pure state approximation](https://arxiv.org/pdf/1806.00463.pdf)
+* [Quantum Generative Adversarial Networks for Learning and Loading Random Distributions](https://arxiv.org/pdf/1904.00043.pdf), [other source](https://www.nature.com/articles/s41534-019-0223-2.pdf?proof=t)
+* [Quantum generative adversarial learning](https://arxiv.org/pdf/1804.09139.pdf)
+* [Quantum generative adversarial networks](https://arxiv.org/pdf/1804.08641.pdf)
+
+### Quantum Optimization
+* [Evaluating analytic gradients on quantum hardware](https://arxiv.org/pdf/1811.11184.pdf)
+* [Solving machine learning optimization problems using quantum computers](https://arxiv.org/pdf/1911.08587.pdf)
+
 ### Quantum Machines for Classical Processes
 * [Superior memory efficiency of quantum devices for the simulation of continuous-time stochastic processes](https://arxiv.org/pdf/1704.04231.pdf)
 * [Quantum mechanics can reduce the complexity of classical models](https://www.nature.com/articles/ncomms1761)
@@ -93,8 +104,41 @@
 ### Quantum Computing in Finance
 * [Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=2A8897FA165EA093F7498B9A77C826F42ED337502D009C473CA5F567D97293EF5AF712A17BCA66FAF16D33BB771A4901)
 
+### Quantum Computing for Timeseries
+* [Using Quantum Mechanics to Cluster Time Series](https://arxiv.org/pdf/1805.01711.pdf)
+* [Time series forecasting with qubit neural networks](https://www.researchgate.net/publication/224877132_Time_series_forecasting_with_qubit_neural_networks)
+
 ### Quantum Circuts
 * [Methodology for replacing indirect measurements with direct measurements](https://arxiv.org/pdf/1901.00015.pdf)
+
+### Quantum Computing in Space Exploration
+* [A Near-Term Quantum Computing Approach for Hard Computational Problems in Space Exploration](https://arxiv.org/pdf/1204.2821.pdf)
+* [Quantum Technologies in Space](https://www.cosmos.esa.int/documents/1866264/3219248/BassiA_QT_In_Space_-_White_Paper.pdf/6f50e4bc-9fac-8f72-0ec0-f8e030adc499?t=1565184619333)
+
+### Continous Variable Quantum Circuts (qmode):
+* [Continuous-variable quantum neural networks](https://arxiv.org/pdf/1806.06871.pdf)
+* [Continuous-variable quantum computing in the quantum optical frequency comb](https://iopscience.iop.org/article/10.1088/1361-6455/ab526f/pdf)
+
+### Other Quantum Algorithms
+* [Quantum Sampling Algorithms for Near-Term Devices](https://arxiv.org/pdf/2005.14059.pdf)
+* [Quantum Risk Analysis](https://arxiv.org/pdf/1806.06893.pdf)
+* [Crossing a topological phase transition with a quantum computer](https://arxiv.org/pdf/1910.05351.pdf)
+
+### Not Quantum Computing but (potentially) Related to Research
+* [Quant GANs: Deep Generation of Financial Time Series](https://arxiv.org/pdf/1907.06673.pdf)
+* [A Two-Step Disentanglement Method](https://arxiv.org/pdf/1709.00199.pdf)
+* [Stock Market Prediction Based on Generative Adversarial Network](https://reader.elsevier.com/reader/sd/pii/S1877050919302789?token=009ECEB2297854BFB84EBBD41957B63D6F6EE792BC8CC8A2C26A4CE7408AF3E5FCBBAB4C7529867B78D5722DDA545183)
+* [Parameter Estimation in Hidden Markov Models with Intractable Likelihoods Using Sequential Monte Carlo](https://arxiv.org/pdf/1311.4117.pdf)
+* [Classification with non-i.i.d. sampling](https://www.sciencedirect.com/science/article/pii/S0895717711002068)
+* [Near-Optimal No-Regret Algorithms for Zero-Sum Games](http://people.csail.mit.edu/costis/optimalNR.pdf)
+* [The Distribution of Stock Return Volatility](https://www.nber.org/papers/w7933)
+* [Smart sampling and incremental function learning for very large high dimensional data](https://www.sciencedirect.com/science/article/pii/S0893608015001768)
+* [High-Dimensional Statistics in Finance](https://www.researchgate.net/publication/325193069_High-Dimensional_Statistics_in_Finance)
+* [Encoding Time Series Data for Better Clustering Results](https://link.springer.com/chapter/10.1007/978-3-642-33018-6_48)
+* [Deep Learning and Time Series-to-Image Encoding for Financial Forecasting](http://www.ieee-jas.org/fileZDHXBEN/journal/article/zdhxbywb/2020/3/PDF/JAS-2019-0392.pdf)
+* [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/pdf/1907.05321.pdf)
+* [MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557)
+* [CONDITIONAL GAN FOR TIMESERIES GENERATION](https://arxiv.org/pdf/2006.16477.pdf)
 
 ## Software 
 
