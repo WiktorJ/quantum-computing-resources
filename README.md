@@ -12,7 +12,7 @@
 ## People
 * Simon Benjamin - Oxford https://qtechtheory.org/
 * Steven Flammia - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/steven-flammia.html#collapseprofileresearchinterest
-* Stephen Bartlett - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/stephen-bartlett.html 
+* Stephen Bartlett - UoS https://www.sydney.edu.au/science/about/our-people/academic-staff/stephen-bartlett.html
 * Aram W. Harrow - MIT http://web.mit.edu/aram/www/
 * Marcello Benedetti - UCL https://scholar.google.co.uk/citations?user=Pj-XjgkAAAAJ&hl=en
 * Maria Schuld - University of KwaZulu-Natal https://quantum.ukzn.ac.za/ms-m-schuld/
@@ -86,12 +86,14 @@
 * [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/pdf/1902.10445.pdf)
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf)
 * [Training deep quantum neural networks](https://www.nature.com/articles/s41467-020-14454-2)
+* [Layerwise learning for quantum neural networks](https://arxiv.org/pdf/2006.14904.pdf)
 
 #### Quantum Adversarial Networks
 * [Adversarial quantum circuit learning for pure state approximation](https://arxiv.org/pdf/1806.00463.pdf)
 * [Quantum Generative Adversarial Networks for Learning and Loading Random Distributions](https://arxiv.org/pdf/1904.00043.pdf), [other source](https://www.nature.com/articles/s41534-019-0223-2.pdf?proof=t)
 * [Quantum generative adversarial learning](https://arxiv.org/pdf/1804.09139.pdf)
 * [Quantum generative adversarial networks](https://arxiv.org/pdf/1804.08641.pdf)
+* [Quantum generative adversarial network for generating discrete distribution](https://arxiv.org/pdf/1807.01235.pdf)
 
 ### Quantum Optimization
 * [Evaluating analytic gradients on quantum hardware](https://arxiv.org/pdf/1811.11184.pdf)
@@ -140,7 +142,7 @@
 * [MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557)
 * [CONDITIONAL GAN FOR TIMESERIES GENERATION](https://arxiv.org/pdf/2006.16477.pdf)
 
-## Software 
+## Software
 
 ### [Qiskit](https://qiskit.org/)
 
@@ -150,11 +152,11 @@ Qiskit is an open-source quantum computing software development framework for le
 
 A cross-platform Python library for quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.d
 
-### [Tensorflow Quantum](https://github.com/tensorflow/quantum) 
+### [Tensorflow Quantum](https://github.com/tensorflow/quantum)
 
 Python framework for hybrid quantum-classical machine learning that is primarily focused on modeling quantum data. TFQ is an application framework developed to allow quantum algorithms researchers and machine learning applications researchers to explore computing workflows that leverage Google’s quantum computing offerings, all from within TensorFlow.
 
-### [Cirq](https://github.com/quantumlib/Cirq) 
+### [Cirq](https://github.com/quantumlib/Cirq)
 
 Cirq is a Python library for writing, manipulating, and optimizing quantum circuits and running them against quantum computers and simulators.
 
@@ -170,7 +172,7 @@ quantum algorithms is to prepare a parametrised quantum state using a quantum
 processor and to vary its parameters externally until the optimum of a suitable cost
 function is reached. This cost function can be tailored to the particular problem. For
 example, one can search for the ground state of a molecule by setting the cost function to
-be the expectation value of the corresponding molecular Hamiltonian. This technique is 
+be the expectation value of the corresponding molecular Hamiltonian. This technique is
 usually referred to as the variational quantum eigensolver (VQE) [1, 2, 3, 4]. Quantum
 machine learning is another area where variational techniques may be valuable. One is
 then interested in optimising a cost function that quantifies how similar the output of
@@ -183,12 +185,12 @@ the intuition that physical states with low energy generally belong to an expone
 whole Hilbert space
 
 
-Variational simulation is a widely used technique in many-body physics 
+Variational simulation is a widely used technique in many-body physics
 
 ### Optimization
 
 Purely quantum methods differ from classical stochastic optimization in that
-they are usually guaranteed to find the global optimum under ideal conditions. 
+they are usually guaranteed to find the global optimum under ideal conditions.
 In real-world implementations, they, too, yield stochastic results.
 
 ### Quantum Security
@@ -228,3 +230,4 @@ the few thousands-of-qubits regime (source: https://arxiv.org/pdf/1708.09757.pdf
 
 ## Other Links
 * https://thequantumdaily.com/2019/11/18/the-worlds-top-12-quantum-computing-research-universities/
+* [Author of *Quantum generative adversarial networks* explains the concepts (video)](https://www.youtube.com/watch?v=FNqQ8BMN8jo)
