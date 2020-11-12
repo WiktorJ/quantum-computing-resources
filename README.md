@@ -67,6 +67,7 @@
 * [Machine learning methods in quantum computing theory](https://arxiv.org/pdf/1906.10175.pdf)
 * [Small quantum computers and large classical data set](https://arxiv.org/pdf/2004.00026.pdf)
 * [Machine learning quantum states in the NISQ era](https://arxiv.org/pdf/1905.04312.pdf)
+* [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf)
 
 #### Machine Learning Encodins
 * [Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers](https://arxiv.org/pdf/1806.08321.pdf)
