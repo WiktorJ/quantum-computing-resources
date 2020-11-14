@@ -41,3 +41,4 @@
 This paper is exploring a link between SVM kernel methods and QML. The idea is that both of those techniques are leveraging high dimensional (infinite) Hilbert spaces to perform classification.
 
 *In the quantum case, the kernel trick corresponds to changing the data encoding strategy*
+
