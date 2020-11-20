@@ -95,6 +95,7 @@
 * [Quantum generative adversarial learning](https://arxiv.org/pdf/1804.09139.pdf)
 * [Quantum generative adversarial networks](https://arxiv.org/pdf/1804.08641.pdf)
 * [Quantum generative adversarial network for generating discrete distribution](https://arxiv.org/pdf/1807.01235.pdf)
+* [Quantum Wasserstein GANs](https://papers.nips.cc/paper/2019/file/f35fd567065af297ae65b621e0a21ae9-Paper.pdf)
 
 ### Quantum Optimization
 * [Evaluating analytic gradients on quantum hardware](https://arxiv.org/pdf/1811.11184.pdf)
