@@ -41,6 +41,9 @@
 * [Variational quantum simulation of general processes](https://arxiv.org/pdf/1812.08778.pdf)
 * [Theory of variational quantum simulation](https://arxiv.org/pdf/1812.08767.pdf)
 
+### Quantum Related Probability Distributions
+* [Quantum and classical probability distributions for arbitrary Hamiltonians](https://iopscience.iop.org/article/10.1088/0143-0807/37/4/045403)
+* [Probability Representation of Quantum Mechanics Where System States Are Identified with Probability Distributions](https://www.mdpi.com/2624-960X/2/1/6)
 ### Quantum Compilers
 * [Quantum compilation and circuit optimisation via energy dissipation](https://arxiv.org/pdf/1811.03147.pdf)
 * [Quantum-assisted Quantum Compiling](https://arxiv.org/pdf/1807.00800.pdf)
@@ -107,6 +110,7 @@
 
 ### Quantum Computing in Finance
 * [Quantum computing for finance: Overview and prospects](https://reader.elsevier.com/reader/sd/pii/S2405428318300571?token=2A8897FA165EA093F7498B9A77C826F42ED337502D009C473CA5F567D97293EF5AF712A17BCA66FAF16D33BB771A4901)
+* [Option Pricing using Quantum Computers](https://quantum-journal.org/papers/q-2020-07-06-291/pdf/)
 
 ### Quantum Computing for Timeseries
 * [Using Quantum Mechanics to Cluster Time Series](https://arxiv.org/pdf/1805.01711.pdf)
@@ -143,6 +147,7 @@
 * [Time2Vec: Learning a Vector Representation of Time](https://arxiv.org/pdf/1907.05321.pdf)
 * [MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557)
 * [CONDITIONAL GAN FOR TIMESERIES GENERATION](https://arxiv.org/pdf/2006.16477.pdf)
+* [UNSUPERVISED AND SEMI-SUPERVISED LEARNING WITH CATEGORICAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06390.pdf)
 
 ## Software
 
