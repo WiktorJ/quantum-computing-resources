@@ -28,6 +28,7 @@
 * [Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
 * [Parameterized quantum circuits as machine learning models](https://arxiv.org/pdf/1906.07682.pdf)
 * [Quantum Machine Learning](https://arxiv.org/pdf/1611.09347.pdf)
+* [The bitter truth about gate-based quantum algorithms in the NISQ era](https://iopscience.iop.org/article/10.1088/2058-9565/abae7d/pdf)
 
 ### Quantum error correction
 * [A high threshold code for modular hardware with asymmetric noise](https://arxiv.org/pdf/1812.01505.pdf)
@@ -72,18 +73,22 @@
 * [Machine learning quantum states in the NISQ era](https://arxiv.org/pdf/1905.04312.pdf)
 * [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/pdf/1803.07128.pdf)
 * [Sample-efficient learning of quantum many-body systems](https://arxiv.org/pdf/2004.07266.pdf)
+* [Power of data in quantum machine learning](https://arxiv.org/pdf/2011.01938.pdf)
+* [Generative training of quantum Boltzmann machines with hidden units](https://arxiv.org/pdf/1905.09902.pdf)
 
-#### Machine Learning Encodins
+#### Machine Learning Encodings
 * [Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers](https://arxiv.org/pdf/1806.08321.pdf)
 * [Quanvolutional Neural Networks: Powering Image Recognition with Quantum Circuits](https://arxiv.org/pdf/1904.04767.pdf)
 * [Experimental Implementation of a Quantum Autoencoder via Quantum Adders](https://arxiv.org/pdf/1807.10643.pdf)
 
-#### Machine Learning Qunatum Circuts
+
+#### Machine Learning Quantum Circuits
 * [Implementing a distance-based classifier with a quantum interference circuit](https://arxiv.org/pdf/1703.10793.pdf)
 * [Circuit-centric quantum classifiers](https://arxiv.org/pdf/1804.00633.pdf)
 * [Quantum classifier with tailored quantum kernel](https://www.nature.com/articles/s41534-020-0272-6.pdf)
 * [Quantum circuit structure learning](https://arxiv.org/pdf/1905.09692.pdf)
 * [Robust Implementation of Generative Modeling with Parametrized Quantum Circuits](https://arxiv.org/pdf/1901.08047.pdf)
+* [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/pdf/1803.11537.pdf)
 
 #### Machine Learning Training Methods
 * [Quantum autoencoders via quantum adders with genetic algorithms](https://arxiv.org/pdf/1709.07409.pdf)
@@ -92,6 +97,8 @@
 * [A Universal Training Algorithm for Quantum Deep Learning](https://arxiv.org/pdf/1806.09729.pdf)
 * [Training deep quantum neural networks](https://www.nature.com/articles/s41467-020-14454-2)
 * [Layerwise learning for quantum neural networks](https://arxiv.org/pdf/2006.14904.pdf)
+* [The quantum Wasserstein distance of order 1](https://arxiv.org/pdf/2009.04469.pdf)
+* [Quantum Natural Gradients](https://arxiv.org/pdf/1909.02108.pdf)
 
 #### Quantum Adversarial Networks
 * [Adversarial quantum circuit learning for pure state approximation](https://arxiv.org/pdf/1806.00463.pdf)
@@ -100,6 +107,10 @@
 * [Quantum generative adversarial networks](https://arxiv.org/pdf/1804.08641.pdf)
 * [Quantum generative adversarial network for generating discrete distribution](https://arxiv.org/pdf/1807.01235.pdf)
 * [Quantum Wasserstein GANs](https://papers.nips.cc/paper/2019/file/f35fd567065af297ae65b621e0a21ae9-Paper.pdf)
+* [Online Kernel based Generative Adversarial Networks](https://arxiv.org/pdf/2006.11432.pdf)
+
+### Quantum Process Tomography
+* [Quantum process tomography with unsupervised learning and tensor networks](https://arxiv.org/pdf/2006.02424.pdf)
 
 ### Quantum Optimization
 * [Evaluating analytic gradients on quantum hardware](https://arxiv.org/pdf/1811.11184.pdf)
@@ -132,6 +143,11 @@
 * [Quantum Sampling Algorithms for Near-Term Devices](https://arxiv.org/pdf/2005.14059.pdf)
 * [Quantum Risk Analysis](https://arxiv.org/pdf/1806.06893.pdf)
 * [Crossing a topological phase transition with a quantum computer](https://arxiv.org/pdf/1910.05351.pdf)
+* [Quantum data compression, quantum information generation, and the density-matrix](https://arxiv.org/pdf/cond-mat/0401136.pdf)
+* [Adding control to arbitrary unknown quantum operations](https://www.nature.com/articles/ncomms1392)
+* [Real- and imaginary-time evolution with compressed quantum circuits](https://arxiv.org/pdf/2008.10322.pdf)
+* [Equivalent Quantum Circuits](https://arxiv.org/pdf/1110.2998.pdf)
+* [Reversing Unknown Quantum Transformations: Universal Quantum Circuit for Inverting General Unitary Operations](https://arxiv.org/pdf/1810.06944.pdf)
 
 ### Not Quantum Computing but (potentially) Related to Research
 * [Quant GANs: Deep Generation of Financial Time Series](https://arxiv.org/pdf/1907.06673.pdf)
@@ -149,6 +165,8 @@
 * [MTSS-GAN: Multivariate Time Series Simulation Generative Adversarial Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3616557)
 * [CONDITIONAL GAN FOR TIMESERIES GENERATION](https://arxiv.org/pdf/2006.16477.pdf)
 * [UNSUPERVISED AND SEMI-SUPERVISED LEARNING WITH CATEGORICAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06390.pdf)
+* [JointGAN: Multi-Domain Joint Distribution Learning with](https://arxiv.org/pdf/1806.02978.pdf)
+* [Adversarially Learned Inference](https://ishmaelbelghazi.github.io/ALI/)
 
 ## Software
 
