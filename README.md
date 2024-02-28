@@ -186,6 +186,10 @@ Python framework for hybrid quantum-classical machine learning that is primarily
 
 Cirq is a Python library for writing, manipulating, and optimizing quantum circuits and running them against quantum computers and simulators.
 
+### [Quriust](https://github.com/ScipioneParmigiano/quriust) 
+
+ Quriust is a blazing fast quantum circuit simulator written in Rust. Only for quriust ones.
+
 ## Notes
 
 ### Variational Quantum Algorithms(VQAs)
